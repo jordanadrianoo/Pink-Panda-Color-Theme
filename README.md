@@ -5,10 +5,6 @@
 |Text Type                 | R/G/B               | HEX# ID                |
 |--------------------------|---------------------|------------------------|
 | Plain Text               |  220 / 220 / 220    | #dcdcdc                |
+| Selected Text            |  253 / 181 / 183    | #fdb5b7                |
 
 
-<font color="color_name|hex_number|rgb_number">
- <font color="#4df0ed">This is some text!</font>
-<div class="text-purple">
-  This text is purple, <a href="4df0ed" class="text-inherit">including the link</a>
-</div>
