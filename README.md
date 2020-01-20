@@ -9,4 +9,5 @@
 | Line Numbers             |  253 / 181 / 183    | #fdb5b7                |
 | Auto-complete brace      |  230 / 185 / 253    | #e6b9fd                |
 |                          |                     |                        |
-|JavaScript Console        |                     |                        |
+| **JavaScript Console**   |                     |                        |
+| Console Warning Text     |  254 / 252 / 200    | #fefcc8                |
