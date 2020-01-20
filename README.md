@@ -14,6 +14,7 @@
 
 |Text Type                 | R/G/B               | HEX# ID                |
 |--------------------------|---------------------|------------------------|
+| Plain Text               |  220 / 220 / 220    | #dcdcdc                |
 | Console Input Text       |  190 / 254 / 215    | #befed7                |
 | Information Text         |  180 / 254 / 243    | #b4fef3                |
 | Error Text               |  255 / 128 / 128    | #ff8080                |
