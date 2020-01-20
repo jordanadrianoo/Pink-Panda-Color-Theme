@@ -8,4 +8,7 @@
 
 
 <font color="color_name|hex_number|rgb_number">
- <font color="red">This is some text!</font>
+ <font color="#4df0ed">This is some text!</font>
+<div class="text-purple">
+  This text is purple, <a href="4df0ed" class="text-inherit">including the link</a>
+</div>
