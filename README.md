@@ -13,5 +13,6 @@
 ## JavaScript Console
 
 |Text Type                 | R/G/B               | HEX# ID                |
+|--------------------------|---------------------|------------------------|
 | **JavaScript Console**   |                     |                        |
 | Console Warning Text     |  254 / 252 / 200    | #fefcc8                |
