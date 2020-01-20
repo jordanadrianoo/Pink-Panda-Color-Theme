@@ -15,4 +15,5 @@
 |Text Type                 | R/G/B               | HEX# ID                |
 |--------------------------|---------------------|------------------------|
 | **JavaScript Console**   |                     |                        |
+| Error Text               |  255 / 128 / 128    | #ff8080                |
 | Console Warning Text     |  254 / 252 / 200    | #fefcc8                |
