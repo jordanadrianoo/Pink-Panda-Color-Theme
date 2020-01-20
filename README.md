@@ -8,5 +8,5 @@
 | Selected Text            |  253 / 181 / 183    | #fdb5b7                |
 | Line Numbers             |  253 / 181 / 183    | #fdb5b7                |
 | Auto-complete brace      |  230 / 185 / 253    | #e6b9fd                |
-|--------------------------|---------------------|------------------------|
+|                          |                     |                        |
 |JavaScript Console        |                     |                        |
