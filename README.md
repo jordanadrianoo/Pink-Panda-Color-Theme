@@ -5,3 +5,6 @@
 |Text Type                 | R/G/B               | HEX# ID                |
 |--------------------------|---------------------|------------------------|
 | Plain Text               |  220 / 220 / 220    | #dcdcdc                |
+
+
+<font color="color_name|hex_number|rgb_number">
