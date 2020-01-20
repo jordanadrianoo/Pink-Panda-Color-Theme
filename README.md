@@ -8,3 +8,4 @@
 
 
 <font color="color_name|hex_number|rgb_number">
+ <font color="red">This is some text!</font>
