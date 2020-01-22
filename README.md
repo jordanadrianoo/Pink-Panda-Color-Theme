@@ -5,7 +5,7 @@
 
 ## Visual Studio Pink Panda Theme
 
-<img src="Repository Images/c++ sample code.JPG" width="1200" height="600">
+<img src="Repository Images/c++ Sample code.JPG" width="1200" height="600">
 
 <img src="Repository Images/HTML Sample Code.JPG" width="1200" height="600">
 
