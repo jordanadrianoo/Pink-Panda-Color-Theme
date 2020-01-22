@@ -3,7 +3,7 @@
 
 ## Visual Studio Pink Panda Theme
 
-
+<img src="Repository Images/Visual Studio Pink Panda Theme.JPG" width="700" height="600">
 
 
 
