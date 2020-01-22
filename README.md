@@ -9,7 +9,7 @@
 | Selected Text            |  253 / 181 / 183    | #fdb5b7                |
 | Line Numbers             |  253 / 181 / 183    | #fdb5b7                |
 | Auto-complete brace      |  230 / 185 / 253    | #e6b9fd                |
-|                          |                     |                        |
+| C++ Function             |  230 / 188 / 254    | #e6bcfe                |
 
 ## JavaScript Console
 
