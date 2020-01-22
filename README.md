@@ -1,7 +1,9 @@
 # Pink Panda Color Theme
  This repository is a custom dark pink theme for Visual Studio. This repository will explain list each text type with its color component.
 
-## Pink Panda Theme
+## Visual Studio Pink Panda Theme
+
+
 
 
 
