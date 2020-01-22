@@ -1,5 +1,5 @@
 # Pink Panda Color Theme
- This repository is a pre-set of colors for IDE's The color scheme was also inspired by Panda Syntax theme. Below is a set of colors for Dark Theme text editors inside IDE's
+ This repository is a custom dark pink theme for Visual Studio. This repository will explain list each text type with its color component.
 
 ## Text Editor
 
