@@ -5,6 +5,8 @@
 
 <img src="Repository Images/c++ sample code.JPG" width="1200" height="600">
 
+<img src="Repository Images/HTML Sample Code.JPG" width="1200" height="600">
+
 <img src="Repository Images/Visual Studio Pink Panda Theme.JPG" width="1200" height="600">
 
 
