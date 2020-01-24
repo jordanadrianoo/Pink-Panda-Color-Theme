@@ -12,7 +12,7 @@ All of the following software must be installed. If not yet installed, please fo
 - [Color Theme Editor for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor)
 
 
-## Panda Theme Preview 
+## Pink Panda Theme Preview 
 
 **C++ Sample Code**
 
