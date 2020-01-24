@@ -13,5 +13,3 @@
 
 
 
-## Text Editor
-
