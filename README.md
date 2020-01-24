@@ -3,7 +3,7 @@
 # Prerequisites
 **software** 
 
-
+All of the following software must be installed. If not yet installed, please follow the links and install both Visual Studios and Color Theme Editor for Visual Studios. *note that visual studio code is not the version we will be working with.*
 
 - [Visual Studios](https://visualstudio.microsoft.com/)
 - [Color Theme Editor for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor)
