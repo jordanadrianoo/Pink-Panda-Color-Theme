@@ -14,9 +14,11 @@ All of the following software must be installed. If not yet installed, please fo
 
 ## Panda Theme Preview 
 **C++ Sample Code**
+
 <img src="Repository Images/c++ Sample code.JPG" width="1200" height="600">
 
 **HTML Samle Code**
+
 <img src="Repository Images/HTML Sample Code.JPG" width="1200" height="600">
 
 
