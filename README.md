@@ -3,7 +3,11 @@
 # Prerequisites
 **software** 
 
+
+
 - [Visual Studios](https://visualstudio.microsoft.com/)
+- [Color Theme Editor for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor)
+
 
 
 
