@@ -1,4 +1,5 @@
 <!--https://studiostyl.es/schemes/pink-panda-1-->
+<!--https://studiostyl.es/schemes/pink-panda-1-->
 
 # Pink Panda Color Theme 
  This repository is a custom dark pink theme I made for Visual Studio. This repository will assist with the installing and application process. In addition, at the bottom of this repostiroy there will be a list of each text type with its corresponding color. 
